@@ -11,3 +11,7 @@ This repository is a hands-on lab for AI Engineering experiments, including:
 ---
 
 ## Project Structure
+
+eerwer
+erwer
+werwe
